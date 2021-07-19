@@ -1,4 +1,4 @@
-# Artificial-Inteligence
+# Artificial-Intelligence
 All projects implemeted using Python.
 
 ## Blackjack
